@@ -6,4 +6,7 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con +3 años experiencia.<br />¡Revisa mi perfil 👇!</p>
 
-<picture align="center"> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
